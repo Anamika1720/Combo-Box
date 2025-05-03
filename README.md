@@ -15,7 +15,7 @@ Source code : [github.com/Anamika1720/Combo-Box](https://github.com/Anamika1720/
 - Real-time filtering of options
 - Keyboard navigation (Arrow Up/Down, Enter, Escape)
 - Mouse selection support
-- Multi-select chips with remove functionality
+- Multi-select with remove functionality
 - Accessibility roles and ARIA attributes
 - Styled using Tailwind CSS
 
